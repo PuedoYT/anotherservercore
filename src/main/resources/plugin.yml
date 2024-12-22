@@ -1,0 +1,3 @@
+name: BWCore
+version: '${project.version}'
+main: gg.bwhub.bwcore.Core
